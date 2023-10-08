@@ -3,5 +3,6 @@
 ```
 Pedro Sena
 Arthur Mesquita
-RIchard Lima
+Richard Lima
+Andrey Dizioli
 ```
